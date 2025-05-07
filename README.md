@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @anshrajsinh73
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Node JS
-- 📫 How to reach me logicnest.in
+- 🌱 I’m currently working on PHP and learning Node JS
+- 📫 How to reach me 8460203103, solankianshraj7333@gmail.com, https://www.linkedin.com/in/anshrajsolanki/
